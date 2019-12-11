@@ -6,5 +6,5 @@ def parrot
 end
 
 def parrot(phrase)
-  return "Pretty Bird"
+  return "Pretty bird!"
 end
